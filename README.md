@@ -3,7 +3,7 @@
 A simple, interactive web project that generates a random RGB color with the click of a button. It provides a live preview and an easy "copy to clipboard" feature.
 
 ## 📸 Preview
-![A screenshot of the Random Color Generator in action.](screenshot.png)
+![A screenshot of the Random Color Generator in action.](Screenshot.png)
 
 ## 📖 About
 
