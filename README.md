@@ -1,7 +1,10 @@
 # 🎨 Random Color Generator
-Try it now! 
+
+---
+- Try it now! 
 Live Link : https://color-picker-d4od.onrender.com
 ---
+
 A simple, interactive web project that generates a random RGB color with the click of a button. It provides a live preview and an easy "copy to clipboard" feature.
 
 ## 📸 Preview
